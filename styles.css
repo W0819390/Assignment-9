@@ -1,0 +1,17 @@
+
+/* Body styles */
+body {
+    padding-top: 60px; /* Adjust based on your navigation height */
+  }
+  
+  /* Header styles */
+  .jumbotron {
+    background-color: #f8f9fa; /* Change color as desired */
+    padding: 2rem;
+  }
+  
+  /* Card styles */
+  .card {
+    margin-bottom: 20px;
+  }
+  
